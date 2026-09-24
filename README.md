@@ -3,17 +3,20 @@
 Gameplay systems and tools programmer, with SQL and Python analytics work on the side.
 Currently looking for an internship in gameplay programming, game AI, or data analytics.
 
-📄 [Resume](Henrey_Hu_Resume.pdf) · 🌐 [Full portfolio site](https://HenreyHu.github.io) — videos, diagrams and code walkthroughs
+📄 [Resume](Henrey_Hu_Resume.pdf) · 🌐 [Full portfolio site](https://HenreyHu.github.io) 
 
 ## About
 
 I'm a Computer Science student at Singapore Institute of Technology, studying Interactive Media and
 Game Development jointly with DigiPen Institute of Technology Singapore.
 
-Most of my work is low-level gameplay programming in C++ on engines built from scratch rather than
-Unity or Unreal — enemy AI, save systems, and the in-engine tooling a team uses day to day. Outside
-of that I work with SQL and Python on analytics problems, mostly around financial and transactional
-data.
+Most of my work is systems programming in C++. I build state machines that drive runtime
+behaviour, save and restore systems that persist application state across sessions, and the
+internal debugging tools a team uses day to day. I work on engines written from scratch rather
+than off the shelf frameworks, which keeps me close to the architecture instead of sitting on
+top of it.
+I also use SQL and Python to dig into datasets and back my answers with evidence rather than
+assumptions.
 
 ## Table of Contents
 
@@ -28,9 +31,8 @@ data.
 | Area | Tools |
 |---|---|
 | Languages | C++, C#, Python, SQL |
-| Game development | Custom C++ engines, finite state machines, serialization, ImGui tooling, Unity |
-| Data & analytics | DuckDB, pandas, Jupyter, vector search (Chroma) |
-| Workflow | Git, pytest, Ruff |
+| Systems & tooling | Custom C++ engines, state machines, serialization, debug tooling (ImGui), Unity |
+| Data & analytics | DuckDB, pandas, Jupyter |
 
 ## 🎮 Game Development
 
