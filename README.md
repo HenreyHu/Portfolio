@@ -3,7 +3,7 @@
 Gameplay systems and tools programmer, with SQL and Python analytics work on the side.
 Currently looking for an internship in gameplay programming, game AI, or data analytics.
 
-📄 [Resume](Henrey_Hu_Resume.pdf) · 🌐 [Full portfolio site](https://HenreyHu.github.io) 
+📄 [Resume](Henrey_Hu_Resume.pdf) 
 
 ## About
 
@@ -40,12 +40,6 @@ assumptions.
 |---|---|---|---|---|
 | [STRETCH](https://HenreyHu.github.io/projects/stretch.html) | Programmer — AI & UI Champion | C++, Custom Engine, ImGui | Year 2 | 2D platformer built by a team of eight on a custom C++ engine with an entity component system. As AI and UI champion I owned the enemy AI, built as a four state machine of idle, patrol, spot and charge with behaviours registered against a shared context object. I also built the JSON serialisation layer that persists scenes, levels, entities, prefabs and system configuration, the checkpoint and respawn system, the interface system covering buttons, sliders and menu routing, and the undo history behind the level editor. |
 | [Wave Maze](https://HenreyHu.github.io/projects/wave-maze.html) | Programmer | C++ | Year 1 | Top-down stealth maze game built by a team of five in C++ on a 2D engine. I owned the game state architecture, a shared state interface and a manager that every screen in the game runs through, then implemented the screens and the transitions between them, covering the menus, level select, three playable levels, and the pause, settings and exit overlays. I also built the shared interface layer used across all of them for button input, text rendering and font management. |
-
-## 📊 Data & Analytics
-
-Two projects are in active development and will be listed here once results are in:
-a SQL analysis pipeline on ~100k e-commerce orders in DuckDB, and an agentic RAG system that answers
-questions about SEC 20-F filings with per-answer page citations.
 
 ## 🎓 Education
 
