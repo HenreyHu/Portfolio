@@ -38,8 +38,8 @@ assumptions.
 
 | Project | Role | Tools | Timeframe | Description |
 |---|---|---|---|---|
-| [STRETCH](https://HenreyHu.github.io/projects/stretch.html) | Programmer — AI & UI Champion | C++, Custom Engine, ImGui | Year 2 | 2D platformer built by a team of eight on a custom C++ engine with an entity component system. As AI and UI champion I owned the enemy AI, built as a four state machine of idle, patrol, spot and charge with behaviours registered against a shared context object. I also built the JSON serialisation layer that persists scenes, levels, entities, prefabs and system configuration, the checkpoint and respawn system, the interface system covering buttons, sliders and menu routing, and the undo history behind the level editor. |
-| [Wave Maze](https://HenreyHu.github.io/projects/wave-maze.html) | Programmer | C++ | Year 1 | Top-down stealth maze game built by a team of five in C++ on a 2D engine. I owned the game state architecture, a shared state interface and a manager that every screen in the game runs through, then implemented the screens and the transitions between them, covering the menus, level select, three playable levels, and the pause, settings and exit overlays. I also built the shared interface layer used across all of them for button input, text rendering and font management. |
+| [STRETCH](https://github.com/HenreyHu/stretch-writeup) | Programmer — AI & UI Champion | C++, Custom Engine, ImGui | Year 2 | 2D platformer built by a team of eight on a custom C++ engine with an entity component system. As AI and UI champion I owned the enemy AI, built as a four state machine of idle, patrol, spot and charge with behaviours registered against a shared context object. I also built the JSON serialisation layer that persists scenes, levels, entities, prefabs and system configuration, the checkpoint and respawn system, the interface system covering buttons, sliders and menu routing, and the undo history behind the level editor. |
+| [Wave Maze](https://github.com/HenreyHu/waves-writeup) | Programmer | C++ | Year 1 | Top-down stealth maze game built by a team of five in C++ on a 2D engine. I owned the game state architecture, a shared state interface and a manager that every screen in the game runs through, then implemented the screens and the transitions between them, covering the menus, level select, three playable levels, and the pause, settings and exit overlays. I also built the shared interface layer used across all of them for button input, text rendering and font management. |
 
 ## 🎓 Education
 
@@ -52,4 +52,4 @@ Expected 2028
 - Portfolio site: [HenreyHu.github.io](https://HenreyHu.github.io)
 - GitHub: [@HenreyHu](https://github.com/HenreyHu)
 - LinkedIn: [linkedin.com/in/henrey-hu](https://www.linkedin.com/in/henrey-hu)
-- Email: henrey.hu@gmail.com
+- Email: `henrey.hu@gmail.com`
