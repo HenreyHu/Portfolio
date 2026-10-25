@@ -57,7 +57,6 @@ Expected 2028
 
 ## 🔗 Links
 
-- Portfolio site: [HenreyHu.github.io](https://HenreyHu.github.io)
 - GitHub: [@HenreyHu](https://github.com/HenreyHu)
 - LinkedIn: [linkedin.com/in/henrey-hu](https://www.linkedin.com/in/henrey-hu)
 - Email: `henrey.hu@gmail.com`
