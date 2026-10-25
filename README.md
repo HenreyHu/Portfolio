@@ -1,7 +1,7 @@
 # Henrey Hu — Portfolio
 
-Gameplay systems and tools programmer, with SQL and Python analytics and a RAG project on the side.
-Currently looking for an internship in gameplay programming, game AI, or data analytics.
+Software engineer with game programming, data analysis and RAG projects.
+Currently looking for an internship in software engineering, game programming, or data analytics.
 
 📄 [Resume](Henrey_Hu_Resume.pdf) 
 
